@@ -13,7 +13,7 @@ class Program
         int baseOfTriangle;
         int heightOfTriangle;
 
-        Console.WriteLine("This program calculates the area of a triangle.");
+        Console.WriteLine("This program calculates the area of a triangle (cm).");
         Console.WriteLine("");
 
         Console.Write("Enter base of triangle (cm): ");
